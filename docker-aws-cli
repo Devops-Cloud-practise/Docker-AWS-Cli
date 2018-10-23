@@ -1,4 +1,4 @@
-# Docker-AWS-Cli docker file
+# Docker-AWS-Cli docker file #https://dzone.com/articles/docker-as-package-manager-for-linux
 FROM alpine:latest
 
 # Version https://github.com/aws/aws-cli/releases
