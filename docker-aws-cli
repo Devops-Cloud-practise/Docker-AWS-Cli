@@ -21,4 +21,4 @@ VOLUME /aws
 
 WORKDIR /aws
 
-#How to run ----> alias aws = "docker run --rm -tiv $HOME/.aws:/root/.aws -v $(pwd):/aws used_name/aws-cli aws"
+#How to run ----> alias aws="docker run --rm -tiv $HOME/.aws:/root/.aws -v $(pwd):/aws used_name/aws-cli aws"
